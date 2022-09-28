@@ -1,0 +1,20 @@
+1. Mitkä ovat neljä ehdottomasti kaikkien ohjelmistoprojektien keskeistä vaatimusta? 
+Onko viides luennolla mainittu vaatimus mielestäsi keskeinen 
+kaikissa ohjelmistoprojekteissa?
+
+2. Kuvaile lyhyesti, miksi UML-kuvauskieli on kehitetty. 
+Miksi omakotitalo on hyvä esimerkki tai analogia UML-kielen tarpeellisuudesta 
+ohjelmistoalalla?
+
+3. Mihin kolmeen ryhmään UML-kaaviot jaetaan ja mitkä ovat keskeisimmät, 
+tai tavallisimmin edelleen käytetyt UML-kaaviotyypit?
+
+4. Lataa koneellesi jokin UML-kaavioiden piirtoon soveltuva ohjelma (esim. Microsoft Visio, Dia, ArgoUML) 
+ja piirrä sillä vapaamuotoinen käyttötapauskaavio jossa on vähintään kaksi toimijaa 
+(actoria) sekä kolme eri käyttötapausta yhden järjestelmän sisällä; katso mallia luentoesityksestä.
+
+Lataa kaaviosta tehty kuva esimerkiksi Google Driveen tai yliopiston Onedrive-palveluun. Liitä linkki kaavioon vastauskenttään alle siten, 
+että opettaja pystyy näkemään piirtämäsi kaavion (eli lähettämäsi kuva ja/tai linkki toimii).
+
+5. Kirjoita harjoitustyöhön liittyen yksi käyttötapauskuvaus luennon ohjeiden ja esimerkin mukaisesti. 
+Kiinnitä huomiota siihen, että kuvauksen alkutilanne, itse kuvaus ja lopputilanne ovat selkeitä ja sisällytä kuvaukseen yksi poikkeus.
