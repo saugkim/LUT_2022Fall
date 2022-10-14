@@ -10,7 +10,7 @@ SCENARIOS  :
     start view (main view): user selects destination and for this user sees two options
         - user selects the map option       -> user sees map view 
         - user selects the drop-down option -> user sees drop down menu view
-        - user can login                    -> user sees login view
+        - user can login (possibly sign-up) -> user sees login view
         - signed-up user can save travel history (destination and date) 
 
     map view with search bar on top: 
