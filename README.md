@@ -29,7 +29,6 @@ https://www.youtube.com/watch?v=YCQaXBEYuBE&list=PLcWfHb44WEko7td22x1aOvMRPvsGe6
 https://www.youtube.com/watch?v=nyQIcmjSA48&list=PLcWfHb44WEko7td22x1aOvMRPvsGe6GHh&index=53
 
 
-
 8. Laatu ja sen mittaaminen  
 https://www.youtube.com/watch?v=3ZP2ITG-V8o&list=PLcWfHb44WEko7td22x1aOvMRPvsGe6GHh&index=54  
 
@@ -38,8 +37,8 @@ https://www.youtube.com/watch?v=3ZP2ITG-V8o&list=PLcWfHb44WEko7td22x1aOvMRPvsGe6
 https://www.youtube.com/watch?v=p222IiE_Sms&list=PLcWfHb44WEko7td22x1aOvMRPvsGe6GHh&index=55
 
 
-
-10.
+10. Luento 10, Ohjelmistosuunnittelu ja arkkitehtuuri  
+https://www.youtube.com/watch?v=CX1TmLoBbSM
 
 
 11. Ohjelmistoprojektien hallinta  
