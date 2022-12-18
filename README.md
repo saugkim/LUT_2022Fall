@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=QKDN64jROXw&list=PLcWfHb44WEko7td22x1aOvMRPvsGe6
 https://www.youtube.com/watch?v=2Sz0FqJIgR8&list=PLcWfHb44WEko7td22x1aOvMRPvsGe6GHh&index=50
 
 
-5. Tapahtumien mallinnus sekvenssikaavioilla  
-https://www.youtube.com/watch?v=YCQaXBEYuBE&list=PLcWfHb44WEko7td22x1aOvMRPvsGe6GHh&index=52  
+5.  Luento 5, Vaatimuksista luokkakaavioon Vaatimuksista luokkakaavioon    
+https://www.youtube.com/watch?v=SW9CgYQFDz4&list=PLcWfHb44WEko7td22x1aOvMRPvsGe6GHh&index=51
 
 
 6. Tapahtumien mallinnus sekvenssikaavioilla  
